@@ -1,0 +1,67 @@
+.principal-lotofacil {
+    display: flex;
+    padding: 30px 0px;
+    border-bottom: 1px solid #ddd;
+}
+
+.loteria-lotofacil {
+    display: flex;
+}
+
+.title-lotofacil {
+    font-size: 28px;
+    font-weight: bold;
+    color: #930089;
+    margin-left: 10px;
+}
+
+.block-lotofacil {
+    width: 240px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+.text-lotofacil{
+    font-size: 15px;
+    color: #4c556c;
+}
+
+.valores-lotofacil {
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #930089;
+}
+
+.block-right-lotofacil {
+    margin-left: 50px;
+}
+
+.linha-lotofacil {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+}
+
+.dezenas-lotofacil {
+    font-size: 20px;
+    font-weight: bold;
+    color: #930089;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 0px 15px;
+}
+
+.acumula-lotofacil {
+    font-size: 28px;
+    font-weight: bold;
+    color: #0066b3;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+.data-lotofacil {
+    margin-top: 15px;
+    color: #4c556c;
+    padding-left: 15px;
+    font-size: 15px;
+}

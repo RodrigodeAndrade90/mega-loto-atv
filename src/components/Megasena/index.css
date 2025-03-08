@@ -1,0 +1,67 @@
+.principal-mega {
+    display: flex;
+    padding: 30px 0px;
+    border-bottom: 1px solid #ddd;
+}
+
+.block-mega {
+    display: flex;
+}
+
+.title-mega {
+    font-size: 28px;
+    font-weight: bold;
+    color: #209869;
+    margin-left: 10px;
+}
+
+.estimativa-mega {
+    width: 240px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+.text-mega {
+    font-size: 15px;
+    color: #4c556c;
+}
+
+.valores-mega {
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #209869;
+}
+
+.block-right-mega {
+    margin-left: 50px;
+}
+
+.linha-mega {
+    display: flex;
+}
+
+.dezenas-mega {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #209869;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 0px 10px;
+}
+
+.acumula-mega {
+    font-size: 28px;
+    font-weight: bold;
+    color: #0066b3;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+.data-mega {
+    margin-top: 15px;
+    color: #4c556c;
+    padding-left: 15px;
+    font-size: 15px;
+}
