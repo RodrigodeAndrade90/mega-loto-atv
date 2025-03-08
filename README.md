@@ -22,13 +22,23 @@ Para rodar este projeto, siga os passos abaixo:
 
    Execute o seguinte comando para instalar todas as dependências necessárias:
     ```
-    npm install ou npm i
+    npm install
     ```
+   ou
+    ```
+    npm i
+    ```
+
+
 4. **Inicie o projeto:**
 
    Após a instalação das dependências, inicie o projeto com o comando:
     ```
-    npm start ou npm rum start
+    npm start
+    ```
+    ou
+    ```
+    npm rum start
     ```
   Isso iniciará o servidor de desenvolvimento e abrirá o projeto no seu navegador padrão.
 
